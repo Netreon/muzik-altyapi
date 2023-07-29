@@ -1,0 +1,20 @@
+{
+  "name": "exp-bot",
+  "version": "1.0.0",
+  "description": "Exp Bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Utiric",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/voice": "^0.16.0",
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.11.0",
+    "distube": "^4.0.6",
+    "handler-manager": "^1.0.7",
+    "ocr-space-api": "^1.0.1"
+  }
+}
